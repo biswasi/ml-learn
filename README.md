@@ -9,7 +9,15 @@
  git push -u origin main
 
 2.Push an existing repository from the command line
- git remote add origin git@github.com:biswasi/ml-learn.git
- git branch -M main
- git push -u origin main
+  git remote add origin git@github.com:biswasi/ml-learn.git
+  git branch -M main
+  git push -u origin main
 ----------------------------------------------------------------------------------------------------------------------
+
+ML algorithim based on following use cases.
+
+Grid -search.
+One-hot encoding ,Multivariate Imputation by Chained Equation (MICE) SMOTE ,Compare multiple algorithms ,(RFE)
+Logistic regression.
+Association rule.
+Linear Regression.
