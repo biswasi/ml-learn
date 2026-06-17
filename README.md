@@ -21,3 +21,4 @@ One-hot encoding ,Multivariate Imputation by Chained Equation (MICE) SMOTE ,Comp
 Logistic regression.
 Association rule.
 Linear Regression.
+K-means Clustering
