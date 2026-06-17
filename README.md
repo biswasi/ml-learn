@@ -1,4 +1,4 @@
-# ml-learn
+# ML Use Cases
 1.Create a new repository on the command line
  a. echo "# ml-learn" >> README.md
  b .git init
