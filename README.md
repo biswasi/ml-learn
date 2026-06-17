@@ -1,5 +1,5 @@
 # ml-learn
- create a new repository on the command line
+1.Create a new repository on the command line
 echo "# ml-learn" >> README.md
 git init
 git add README.md
@@ -7,7 +7,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:biswasi/ml-learn.git
 git push -u origin main
-push an existing repository from the command line
+2.Push an existing repository from the command line
 git remote add origin git@github.com:biswasi/ml-learn.git
 git branch -M main
 git push -u origin main
